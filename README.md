@@ -2,7 +2,7 @@
 
 PRIVACY POLICY
 Last updated February 28, 2025
-This Privacy Notice for Hivi Al ("we." "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
+This Privacy Notice for HV AI ("we." "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 • Download and use our mobile application (hiv al, or any other apolcation or ours that unks to this Privacy Note:
 • Engage with us in other related ways, including any sales, marketing, or events
 Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your person information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at kobarank@gmail.com.
@@ -235,7 +235,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 Pnvacy Nouce Wrecuenty to be Informed or now we are protecine your information.
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 I you nave questions of comments aboutthis notce, you may contact us by post at.
-Hivi Al
+HV Al
 Feruzay
 Istanbul, Bayrampasa 34040
 Turkey
